@@ -38,7 +38,6 @@ A fully self-developed wearable device that monitors heart rate, blood oxygen, t
 | ESP32       | Central microcontroller + Bluetooth     |
 | MAX30102    | Heart rate & SpO2 sensor                |
 | MPU6050     | Motion sensor for step/activity         |
-| AHT10       | Skin temperature sensor                 |
 | GSR Sensor  | Skin conductance (EDA)                  |
 | SSD1306 OLED| Displays metrics on device              |
 | Power Supply| Battery + 3D-printed case               |
