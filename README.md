@@ -15,7 +15,7 @@ A fully self-developed wearable device that monitors heart rate, blood oxygen, t
 | 3D enclosure (Onshape) | [🔗 View in Onshape](https://cad.onshape.com/documents/06cdc7dd5103108a69db4e8a/w/211ee07450a886f82c94ec0d/e/52509525729491b1b0272fd0?renderMode=0&uiState=684883af258f687a56d25b3e) |
 | 3D interactive model   | [🔗 View on Sketchfab](https://skfb.ly/pxyU9) |
 | 3D render              | ![3D](assets/3d_model.png) |
-| Wiring diagram         | ![Wiring](assets/wiring_diagram.png) |
+| Wiring diagram         | ![Wiring](assets/wiring_diagram.pn) |
 
 ---
 
