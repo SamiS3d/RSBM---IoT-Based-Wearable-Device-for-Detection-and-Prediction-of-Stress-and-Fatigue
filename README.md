@@ -75,7 +75,6 @@ A fully self-developed wearable device that monitors heart rate, blood oxygen, t
 - **Randa Qeisieh** – Computer Information Systems  
 - **Baha’a Jaber** – Computer Information Systems  
 - **Mohammed Jebreen** – CyberSecurity  
-- **Dr. Khalid Alemerien** – Supervisor
 
 ---
 
